@@ -1,0 +1,2 @@
+# IntroductionToProgrammingWithMATLAB
+this is the homework code for coursera class IntroductionToProgrammingWithMATLAB
